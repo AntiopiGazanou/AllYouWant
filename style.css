@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+    font-family: helvetica bold;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+a{
+    text-decoration: none;
+    color: navy;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.logo{
+    float: left;
+    width: 137px;
+    height: 115px;
+}
+
+nav{
+   padding-top: 50px;
+   justify-content: space-around;
+   padding-bottom: 50px;
+   background-color: white;
+
+}
+
+.mainimg{
+    width: 600px;
+    height: 280px;
+}
+
+
+
+footer{
+    padding: 20px;
+
+}
+
